@@ -2,7 +2,7 @@
 Terraform project with best practice, meta-arguments, terraform remote state, data blocks and etc.
 
 
-> [!TIP]
+> [!FYI]
 > #### 👽 Instances created in Modules directory are with HEALTHY target checks, yahoo! :>
 > </detalis>
 
